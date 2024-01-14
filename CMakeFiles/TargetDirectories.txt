@@ -1,0 +1,15 @@
+/home/jhgao/mpsica/2/mPSI-CA/CMakeFiles/rebuild_cache.dir
+/home/jhgao/mpsica/2/mPSI-CA/CMakeFiles/edit_cache.dir
+/home/jhgao/mpsica/2/mPSI-CA/cryptoTools/CMakeFiles/rebuild_cache.dir
+/home/jhgao/mpsica/2/mPSI-CA/cryptoTools/CMakeFiles/edit_cache.dir
+/home/jhgao/mpsica/2/mPSI-CA/cryptoTools/CMakeFiles/sha_asm.dir
+/home/jhgao/mpsica/2/mPSI-CA/cryptoTools/CMakeFiles/cryptoTools.dir
+/home/jhgao/mpsica/2/mPSI-CA/libOTe/CMakeFiles/rebuild_cache.dir
+/home/jhgao/mpsica/2/mPSI-CA/libOTe/CMakeFiles/libOTe.dir
+/home/jhgao/mpsica/2/mPSI-CA/libOTe/CMakeFiles/edit_cache.dir
+/home/jhgao/mpsica/2/mPSI-CA/libOPRF/CMakeFiles/rebuild_cache.dir
+/home/jhgao/mpsica/2/mPSI-CA/libOPRF/CMakeFiles/libOPRF.dir
+/home/jhgao/mpsica/2/mPSI-CA/libOPRF/CMakeFiles/edit_cache.dir
+/home/jhgao/mpsica/2/mPSI-CA/frontend/CMakeFiles/rebuild_cache.dir
+/home/jhgao/mpsica/2/mPSI-CA/frontend/CMakeFiles/frontend.exe.dir
+/home/jhgao/mpsica/2/mPSI-CA/frontend/CMakeFiles/edit_cache.dir
