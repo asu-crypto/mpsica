@@ -16,7 +16,6 @@ After cloning project from git,
 	./bin/frontend.exe -u
 
 #### Flags:
-    -u		unit test which computes PSI of 5 paries, 2 dishonestly colluding, each with set size 2^12 in semihonest setting
 	-n		number of parties
 	-p		party ID
 	-m		set size
@@ -24,10 +23,6 @@ After cloning project from git,
 				0: Table-based; 1: POLY-seperated; 2-POLY-combined; 3-BloomFilter
 	-r		optimized 3PSI when r = 1			
 #### Examples: 
-##### 1. Unit test:
-	./bin/frontend.exe -u
-	
-##### 2. PSICA:
 Compute PSI-CA of 4 parties using serverless protocol, each with set size 2^12
 
 	./bin/frontend.exe -m 12 -n 4 -p 0 
